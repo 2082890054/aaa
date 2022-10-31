@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="谷歌验证码">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aaa/13-cookie和session/笔记/谷歌验证码/kaptcha-2.3.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/aaa/13-cookie和session/笔记/谷歌验证码/kaptcha-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

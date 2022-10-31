@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="笔记5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aaa/10-项目第三阶段/笔记/commons-dbutils-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aaa/10-项目第三阶段/笔记/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aaa/10-项目第三阶段/笔记/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aaa/10-项目第三阶段/笔记/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aaa/10-项目第三阶段/笔记/commons-beanutils-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
